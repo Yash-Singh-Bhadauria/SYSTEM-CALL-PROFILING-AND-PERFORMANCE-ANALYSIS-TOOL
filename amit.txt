@@ -1,0 +1,16 @@
+System Call Summary:
+execve: 1 calls, 0.004155 s
+openat: 2 calls, 0.000221 s
+newfstatat: 3 calls, 0.000427 s
+close: 2 calls, 0.000177 s
+read: 1 calls, 0.000154 s
+pread64: 4 calls, 0.000398 s
+mprotect: 4 calls, 0.000217 s
+arch_prctl: 1 calls, 0.000041 s
+set_tid_address: 1 calls, 0.000035 s
+set_robust_list: 1 calls, 0.000036 s
+rseq: 1 calls, 0.000035 s
+prlimit64: 1 calls, 0.000037 s
+munmap: 1 calls, 0.000047 s
+getrandom: 1 calls, 0.000065 s
+write: 2 calls, 0.000071 s
